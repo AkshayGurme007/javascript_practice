@@ -1,4 +1,4 @@
-//---------------Function Withine Object(Method)------
+//---------------Function Within Object(Method)------
 // let user = {
 //     age: 30,
 //     name: 'Rahul',
