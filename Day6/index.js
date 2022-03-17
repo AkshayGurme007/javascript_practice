@@ -229,3 +229,13 @@
 // double the filtered salaries
 
 // find out the total salary
+//Ans:-
+// let totalsal = salary
+//   .filter((item) => item > 300)
+//   .map((item) => item * 2)
+//   .reduce((acc, curr) => {
+//     acc += curr;
+//     return acc;
+//   }, 0);
+// console.log(totalsal);//3000
+
